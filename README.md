@@ -2,6 +2,8 @@
 
 
 <h3 align="center">Welcome to HANBANG</h3>
+<h4 align="center">Team Name: 공우꺼</h4>
+<h4 align="center">Project Name: 한 방</h4>
 
 ## Team Name: 공우꺼
 
