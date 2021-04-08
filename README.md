@@ -1,3 +1,1 @@
-# HANRoom
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HanRoom%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#7BD1D2&height=300&section=header&text=HanBang%20&fontSize=90" />
