@@ -5,9 +5,6 @@
 <h4 align="center">Team Name: 공우꺼</h4>
 <h4 align="center">Project Name: 한 방</h4>
 
-## Team Name: 공우꺼
-
-## Project Name: 한방
 
 ## Profile
 - 이영주(전자공학과)
